@@ -7,7 +7,7 @@
     "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "fullstack1",
   "license": "ISC",
   "description": "",
   "dependencies": {
